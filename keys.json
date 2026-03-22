@@ -1,0 +1,12 @@
+{
+  "XXXX-XXXX-XXXX-0001": {
+    "expires": "2025-12-31",
+    "hwid": null,
+    "note": "Exemple clé 1"
+  },
+  "XXXX-XXXX-XXXX-0002": {
+    "expires": "2025-06-30",
+    "hwid": null,
+    "note": "Exemple clé 2"
+  }
+}
